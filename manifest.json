@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "kennethreitz",
+  "repo": "crayons",
+  "versions": [
+    {
+      "commit": "b1b78c9a357e0c348a1288ee5ef0318f08ccf257",
+      "parsed_at": "2026-10-18T13:15:29.228544+00:00",
+      "tag": "v0.4.0",
+      "filetree": "filetree/b1b78c9a357e0c348a1288ee5ef0318f08ccf257.nq.gz",
+      "blobs": [
+        "blob/ccb33cfec2800574eb07496846948be2d06ef7e0.nq.gz",
+        "blob/fc4b04a0e0af27f0a611200caf53e953a1662a21.nq.gz",
+        "blob/6dc492fcb0efc3e658a5f62f1b8ec81e3bc49a3c.nq.gz",
+        "blob/2372a83eec90c989aa1093a6a499fe3ccc82ce01.nq.gz",
+        "blob/fc298c656f369004615e7bd836d3436c733db33e.nq.gz",
+        "blob/7f0daf5f56e312007129183e9a626f6b3c27a313.nq.gz",
+        "blob/8b1b549329e186d5c128b5f653c08b8b80fabfa8.nq.gz",
+        "blob/791930b366c5ba3e14f8f219eb842a88b4fc1503.nq.gz",
+        "blob/d59698306826ac1189825113c2a6b19a9da2c3eb.nq.gz",
+        "blob/7f35db24e1e4fb373df261eed9e860b2c89e71fe.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
