@@ -1,0 +1,11 @@
+{
+  "org": "kennethreitz",
+  "repo": "crayons",
+  "versions": [
+    {
+      "commit": "b1b78c9a357e0c348a1288ee5ef0318f08ccf257",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-10-18T13:18:02.576483+00:00"
+    }
+  ]
+}
