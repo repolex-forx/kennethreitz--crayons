@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/kennethreitz/crayons/commit/b1b78c9a357e0c348a1288ee5ef0318f08ccf257",
       "git:hexsha": "b1b78c9a357e0c348a1288ee5ef0318f08ccf257",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.4.0",
+      "repolex:parsedAt": "2026-10-18T13:18:02.575973+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kennethreitz/crayons/commit/ab651dba5b6ac2afe0b5909fbb31de0f596fd960",
